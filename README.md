@@ -13,7 +13,7 @@
 
 </div>
 
-Python bindings to use Anstine, Zubatyuk and Isayev's [AIMNET2](https://chemrxiv.org/engage/chemrxiv/article-details/662fbc9491aefa6ce1bebb89) Neural Network model via an [ASE](https://github.com/rosswhitfield/ase) Calculator for [FIRECODE]((https://github.com/ntampellini/FIRECODE)).
+Python bindings to use Anstine, Zubatyuk and Isayev's [AIMNET2](https://chemrxiv.org/engage/chemrxiv/article-details/662fbc9491aefa6ce1bebb89) Neural Network model via an [ASE](https://github.com/rosswhitfield/ase) Calculator for [FIRECODE](https://github.com/ntampellini/FIRECODE).
 
 Install via pip:
 
