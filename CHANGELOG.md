@@ -1,0 +1,2 @@
+## Version 1.0.0 (Jul 5 2024)
+- Initial commit. CPU and GPU execution are supported, with GPU being much faster. Unfortunately, for now, the torch model is reloaded on each worker, as I have not found a way to properly serialize the model data. For this reason, the single-threaded execution on a single GPU is still faster than multiple, as it does not have to reload the model. This is currently the best-performing setting and should be plenty fast enough for most use cases.
